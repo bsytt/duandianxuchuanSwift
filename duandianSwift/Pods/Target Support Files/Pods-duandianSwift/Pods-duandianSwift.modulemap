@@ -1,0 +1,6 @@
+framework module Pods_duandianSwift {
+  umbrella header "Pods-duandianSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
